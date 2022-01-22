@@ -1,0 +1,58 @@
+*{
+    font-family: 'Dongle';
+}
+body{
+    background: #b7989196;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #94716bab, #b79891a6),url(.../Boostrap/pure-css-snow-animation.gif);; /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #94716bb6, #b7989198),url(../Boostrap/pure-css-snow-animation.gif);; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
+.nav{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 5%;
+    
+}
+.titulo-nav{
+    font-size: 200%;
+}
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: saddlebrown;
+}
+
+.nav-link:active{
+    color:salmon;
+}
+.titulo{
+    font-size: 400%;
+    margin: 3%;
+    text-align: center;
+    color: rgb(245, 230, 220);
+}
+.foto{
+    display: block;
+    margin: auto;
+    margin-bottom: 2%;
+    height: 10%;
+    width: 20%;
+
+}
+.texto{
+    font-size: 230%;
+   color: rgb(0, 0, 0);
+   background-color:rgba(236, 200, 187, 0.726);
+}
+.carta{
+background-color: rgba(255, 248, 220, 0);
+}
+.carta-color{
+    background-color: rgba(236, 200, 187, 0.726);
+}
+footer{
+    font-size: 200%;
+    margin: 1%;
+    border-radius: 1%;
+    background-color: rgba(122, 119, 119, 0.596);
+}
