@@ -3,8 +3,8 @@
 }
 body{
     background: #b7989196;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #94716bab, #b79891a6),url(.../Boostrap/pure-css-snow-animation.gif);; /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #94716bb6, #b7989198),url(../Boostrap/pure-css-snow-animation.gif);; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    background: -webkit-linear-gradient(to right, #94716bab, #b79891a6),url(../foto3.gif);; /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #94716bb6, #b7989198),url(../foto3.gif);; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
 }
 .nav{
     margin-top: 1%;
